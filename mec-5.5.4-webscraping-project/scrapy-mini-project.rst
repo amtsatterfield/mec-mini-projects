@@ -61,7 +61,7 @@ optionally how to follow links in the pages, and how to parse the downloaded
 page content to extract data.
 
 This is the code for our first Spider. Save it in a file named
-``quotes_spider.py`` under the ``tutorial/spiders`` directory in your project::
+``quotes_spider.py`` under the ``scarpy_mini_project/spiders`` directory in your project::
 
     import scrapy
 
